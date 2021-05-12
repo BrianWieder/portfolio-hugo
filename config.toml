@@ -8,7 +8,7 @@ theme = "hugo-coder"
     description = "Brian Wieder's personal website"
     keywords = "blog,developer,personal"
     info = "Software Developer"
-    avatarURL = "images/avatar.jpg"
+    #avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     #footerContent = "Enter a text here."
 
@@ -46,14 +46,9 @@ theme = "hugo-coder"
             [[languages.en.menu.main]]
             name = "Blog"
             weight = 2
-            url = "blog/"
+            url = "https://blog.bwieder.com"
 
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 3
             url = "projects/"
-
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
