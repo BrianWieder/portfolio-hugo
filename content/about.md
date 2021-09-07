@@ -7,11 +7,17 @@ I am a student studying Computer Science at Virginia Tech.
 
 # Experience
 
-## Amazon
+## Amazon Web Services
 
-Incoming Software Dev Engineer
+Software Development Engineer Intern
 
 May 2021 - Aug. 2021
+
+- Helped rewrite the AWS EMR Console in React.js and Typescript
+- Wrote UI unit tests to ensure reliability using Jest, Enzyme, and React Testing Library
+- Participated in daily scrum meetings and biweekly sprint planning meetings
+- Communicated with multiple teams to gather requirements for design mock-ups and APIs
+- Helped plan the structure and code style of the project to ensure consistency across the codebase
 
 ## Convergint Technologies
 
